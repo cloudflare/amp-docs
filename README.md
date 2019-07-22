@@ -1,3 +1,5 @@
+# DEPRECATED - THIS REPOSITORY WILL NOT BE MAINTAINED AFTER AUGUST 2019.
+
 AMPProject.org [![Build Status](https://travis-ci.org/ampproject/docs.svg?branch=production)](https://travis-ci.org/ampproject/docs)
 =========================
 
